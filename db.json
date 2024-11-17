@@ -13,7 +13,8 @@
             "surname": "Bogurevskii",
             "photo_url": "https://images.prom.ua/4690422240_w640_h320_toplivnyj-nasos-vysokogo.jpg",
             "balance": 1500
-        },{
+        },
+        {
             "id": 1,
             "name": "Andrew",
             "surname": "Bondarenko",
@@ -27,7 +28,8 @@
             "photo_url": "https://marry.in.ua/wp-content/uploads/2023/07/bohdan.jpg",
             "balance": 3000000
         },
-            {"id": 5,
+        {
+            "id": 5,
             "name": "Monya",
             "surname": "Rat",
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrj92P4J24MkZm3C3cUewdcpnVw0jp9Umc5Q&s",
@@ -47,7 +49,12 @@
             "description": "I like it",
             "price": "15",
             "photo": "https://content.fora.ua/sku/ecommerce/49/480x480fora/493492_480x480fora_17354f3e-51fb-b063-2a68-472c6128ca86.png"
-
+        },
+        {
+            "name": "rushian baby",
+            "description": "very good food",
+            "price": "0",
+            "photo": "https://photogora.ru/img/product/th/4903/1473685252276134903.jpg"
         }
     ]
 }
