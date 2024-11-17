@@ -1,5 +1,18 @@
 {
     "users": [
-        
+        {
+            "id": 1,
+            "name": "Andrew",
+            "surname": "Bondarenko",
+            "photo_url": "https://marry.in.ua/wp-content/uploads/2023/07/bohdan.jpg",
+            "balance": 20000
+        },
+        {
+            "id": 8,
+            "name": "Mary",
+            "surname": "Lary",
+            "photo_url": "https://marry.in.ua/wp-content/uploads/2023/07/bohdan.jpg",
+            "balance": 3000000
+        }
     ]
 }
