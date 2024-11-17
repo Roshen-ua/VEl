@@ -13,6 +13,32 @@
             "surname": "Bogurevskii",
             "photo_url": "https://images.prom.ua/4690422240_w640_h320_toplivnyj-nasos-vysokogo.jpg",
             "balance": 1500
+        },{
+            "id": 1,
+            "name": "Andrew",
+            "surname": "Bondarenko",
+            "photo_url": "https://marry.in.ua/wp-content/uploads/2023/07/bohdan.jpg",
+            "balance": 20000
+        },
+        {
+            "id": 8,
+            "name": "Mary",
+            "surname": "Lary",
+            "photo_url": "https://marry.in.ua/wp-content/uploads/2023/07/bohdan.jpg",
+            "balance": 3000000
+        },
+            {"id": 5,
+            "name": "Monya",
+            "surname": "Rat",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrj92P4J24MkZm3C3cUewdcpnVw0jp9Umc5Q&s",
+            "balance": "0"
+        },
+        {
+            "id": 6,
+            "name": "Izya",
+            "surname": "Rati",
+            "photo_url": "https://www.havahart.com/media/wysiwyg/hh/cms/lc/rats/hh-animals-rat-1.png",
+            "balance": "3"
         }
     ]
 }
