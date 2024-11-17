@@ -42,6 +42,12 @@
         }
     ],
     "products": [
-        
+        {
+            "name": "Bulochka",
+            "description": "I like it",
+            "price": "15",
+            "photo": "https://content.fora.ua/sku/ecommerce/49/480x480fora/493492_480x480fora_17354f3e-51fb-b063-2a68-472c6128ca86.png"
+
+        }
     ]
 }
