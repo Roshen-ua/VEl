@@ -1,5 +1,18 @@
 {
     "users": [
-        
+        {
+            "id": 2608,
+            "name": "Masha",
+            "surname": "Bogurevska",
+            "photo_url": "https://images.prom.ua/4690422243_w640_h320_toplivnyj-nasos-vysokogo.jpg",
+            "balance": 1500
+        },
+        {
+            "id": 2508,
+            "name": "Misha",
+            "surname": "Bogurevskii",
+            "photo_url": "https://images.prom.ua/4690422240_w640_h320_toplivnyj-nasos-vysokogo.jpg",
+            "balance": 1500
+        }
     ]
 }
