@@ -29,6 +29,11 @@
         }
     ],
     "products": [
-        
+        {
+            "name":"rushian baby",
+            "description":"very good food",
+            "price":"0",
+            "photo":"https://photogora.ru/img/product/th/4903/1473685252276134903.jpg"
+        }
     ]
 }
